@@ -1,0 +1,10 @@
+{
+  "name": "Row_node_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Raihan",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
